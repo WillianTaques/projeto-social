@@ -23,3 +23,7 @@ a {
     font-size: bolder;
     text-decoration: none;
 }
+
+a:hover {
+    background-color: red;
+}
