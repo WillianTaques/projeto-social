@@ -14,16 +14,16 @@
 img {
     width: 100vw;
 }
+
 a {
     display: block;
     background-color: darkred;
     color: white;
     padding: 20px;
     text-align: center;
-    font-size: bolder;
+    font-weight: bolder;
     text-decoration: none;
 }
 
 a:hover {
     background-color: red;
-}
